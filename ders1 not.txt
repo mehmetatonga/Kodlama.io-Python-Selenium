@@ -1,0 +1,41 @@
+---print
+
+---yorum satırı (#)
+
+---değişken türleri
+-string
+-integer(int)
+-float
+-double
+
+---matematiksel operatörler
+-toplama (+)
+-çıkartma (-)
+-çarpma (*)
+-bölme (/)
+
+---mod operatörü (%)
+
+---mantıksal operatörler (True ya da False döner)
+- (==) => eşit mi?
+- (>,<) => Büyüktür küçüktür kontrolü
+- (>=,<=) => Büyük eşittir, küçük eşittir kontrolü
+- (!=) => Eşit değil ise
+
+---CTRL + Ö (Birden fazla satırı yorum satırı yapma ve geri alma)
+
+---or, and
+-or: veya (iki şarttan birisi olsa yeterli)
+-and: ve (iki şart da sağlanmalı)
+
+---karar yapıları
+--if elif else
+-if şart:
+-elif şart:
+-else: 
+
+
+
+
+
+
